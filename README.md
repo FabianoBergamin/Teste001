@@ -1,2 +1,2 @@
-# Teste001
-kjnsçlfkjsdçlojfsr sdfsdfg fsdfswdf
+# AULA DE GIT
+O Fabiano está aprendendo git.
